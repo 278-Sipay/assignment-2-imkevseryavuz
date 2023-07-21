@@ -1,0 +1,12 @@
+C:\Users\Kevser\Desktop\SipayApiProject\SipayApi.Base\bin\Debug\net5.0\SipayApi.Base.deps.json
+C:\Users\Kevser\Desktop\SipayApiProject\SipayApi.Base\bin\Debug\net5.0\SipayApi.Base.dll
+C:\Users\Kevser\Desktop\SipayApiProject\SipayApi.Base\bin\Debug\net5.0\SipayApi.Base.pdb
+C:\Users\Kevser\Desktop\SipayApiProject\SipayApi.Base\obj\Debug\net5.0\SipayApi.Base.csproj.AssemblyReference.cache
+C:\Users\Kevser\Desktop\SipayApiProject\SipayApi.Base\obj\Debug\net5.0\SipayApi.Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevser\Desktop\SipayApiProject\SipayApi.Base\obj\Debug\net5.0\SipayApi.Base.AssemblyInfoInputs.cache
+C:\Users\Kevser\Desktop\SipayApiProject\SipayApi.Base\obj\Debug\net5.0\SipayApi.Base.AssemblyInfo.cs
+C:\Users\Kevser\Desktop\SipayApiProject\SipayApi.Base\obj\Debug\net5.0\SipayApi.Base.csproj.CoreCompileInputs.cache
+C:\Users\Kevser\Desktop\SipayApiProject\SipayApi.Base\obj\Debug\net5.0\SipayApi.Base.dll
+C:\Users\Kevser\Desktop\SipayApiProject\SipayApi.Base\obj\Debug\net5.0\refint\SipayApi.Base.dll
+C:\Users\Kevser\Desktop\SipayApiProject\SipayApi.Base\obj\Debug\net5.0\SipayApi.Base.pdb
+C:\Users\Kevser\Desktop\SipayApiProject\SipayApi.Base\obj\Debug\net5.0\ref\SipayApi.Base.dll
